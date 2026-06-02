@@ -16,6 +16,7 @@ Clone o repositório e entre na pasta:
 
 ```bash
 git clone https://github.com/uMarcinho/aladdin-api.git
+
 cd aladdin-api
 ```
 
