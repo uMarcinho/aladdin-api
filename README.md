@@ -15,7 +15,7 @@ API feita em Django + Django REST Framework que consulta preços de tapetes de u
 Clone o repositório e entre na pasta:
 
 ```bash
-git clone https://github.com/seu-usuario/aladdin-api.git
+git clone https://github.com/uMarcinho/aladdin-api.git
 cd aladdin-api
 ```
 
